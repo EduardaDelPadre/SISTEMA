@@ -1,0 +1,8 @@
+chave.key
+*.key
+.env
+usuarios.json
+alertas.json
+ocorrencias.json
+backups/
+__pycache__/
